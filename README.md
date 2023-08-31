@@ -69,7 +69,7 @@ Just send your feedback to: [office@houseofangular.io](mailto:office@houseofangu
 30. Do you have a CI/CD?\
 &nbsp;&nbsp;30.1. If so, what is it responsible for?\
 &nbsp;&nbsp;30.2. Is it verified?\
-&nbsp;&nbsp;30.3. What are the steps?\
+&nbsp;&nbsp;30.3. What are the steps?
 31. What is the development flow in your company?\
 &nbsp;&nbsp;31.1. Do you practice introducing new code via pull requests or verification via code review?\
 &nbsp;&nbsp;31.2. Does pair programming happen?\
@@ -81,8 +81,8 @@ Just send your feedback to: [office@houseofangular.io](mailto:office@houseofangu
 34. Do you organize internal presentations where employees can share knowledge from projects done at work or after hours? Also, are there, for example, sessions organized for watching conferences together online and discussing them afterward?
 35. Do developers have guaranteed time they can dedicate to self-development?
 36.  What technologies do you use while communicating with the backend team?\
-&nbsp;&nbsp;36.1. REST
-&nbsp;&nbsp;36.2. GaphQL
+&nbsp;&nbsp;36.1. REST\
+&nbsp;&nbsp;36.2. GaphQL\
 &nbsp;&nbsp;36.3. WebSocket
 
 ## Workflow and team responsibilites
