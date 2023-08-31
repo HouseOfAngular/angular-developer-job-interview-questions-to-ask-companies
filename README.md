@@ -9,9 +9,9 @@ Just send your feedback to: [office@houseofangular.io](mailto:office@houseofangu
 
 ## Angular Projects
 
-1.  Which (major) version of Angular do you use in your projects?
-&nbsp;&nbsp;1.1. If it's older than the latest version, why?
-&nbsp;&nbsp;1.2. What is your strategy for upgrading versions?
+1.  Which (major) version of Angular do you use in your projects?\
+&nbsp;&nbsp;1.1. If it's older than the latest version, why?\
+&nbsp;&nbsp;1.2. What is your strategy for upgrading versions?\
 2.  What is your approach to the latest major changes in Angular (standalone API, signals)?
 &nbsp;&nbsp;2.1 Do you use it or plan to use it?
 &nbsp;&nbsp;2.2 Do you mix it with the former approach (i.e. ngModules)?
