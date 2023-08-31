@@ -10,30 +10,30 @@ Just send your feedback to: [office@houseofangular.io](mailto:office@houseofangu
 ## Angular Projects
 
 1.  Which (major) version of Angular do you use in your projects?
-1.1. If it's older than the latest version, why?
-1.2. What is your strategy for upgrading versions?
+&nbsp;&nbsp;1.1. If it's older than the latest version, why?
+&nbsp;&nbsp;1.2. What is your strategy for upgrading versions?
 2.  What is your approach to the latest major changes in Angular (standalone API, signals)?
-2.1 Do you use it or plan to use it?
-2.2 Do you mix it with the former approach (i.e. ngModules)?
+&nbsp;&nbsp;2.1 Do you use it or plan to use it?
+&nbsp;&nbsp;2.2 Do you mix it with the former approach (i.e. ngModules)?
 3.  Do you have any goto architecture? Are you flexible in terms of architecture?
 4.  Do you work on Progressive Web Applications?
-4.1. If yes, do you use Angular Service Worker or Workbox?
+&nbsp;&nbsp;4.1. If yes, do you use Angular Service Worker or Workbox?
 5.  Are there any projects coming up related to:
-5.1. NativeScript
-5.2. Electron
-5.3. Ionic
+&nbsp;&nbsp;5.1. NativeScript
+&nbsp;&nbsp;5.2. Electron
+&nbsp;&nbsp;5.3. Ionic
 6.  Are you writing your own Angular Schematics? If so, please give some examples.
 7.  Do you create custom web components? Do you use the Angular Elements library? If so, please provide examples.
 8.  Do you use Angular Universal Server Side Rendering?
 9.  Do you create Microfrontends (i.e. with module federation from webpack 5)?
 10.  Do you use libraries for application state management (global and local)? (e.g. NgRx, NGXS, Akita)
-10.1 If yes, please roughly describe how and to what extent the application uses them.
+&nbsp;&nbsp;10.1 If yes, please roughly describe how and to what extent the application uses them.
 11.  Do you use the Angular Style Guide?
-11.1 If yes, are there any exceptions, and where are they documented?
+&nbsp;&nbsp;11.1 If yes, are there any exceptions, and where are they documented?
 12.  What is the structure of the project(s), e.g. is there a monorepo?
-12.1 Who decides on the project structure?
+&nbsp;&nbsp;12.1 Who decides on the project structure?
 13.  Do you actively use static code analysis (i.e. linters)?
-13.1 If so, which ones and with what key settings (e.g. cyclomatic-complexity, no-any, etc.)?
+&nbsp;&nbsp;13.1 If so, which ones and with what key settings (e.g. cyclomatic-complexity, no-any, etc.)?
 14.  Do you have multi-language support in your projects, and what do you use for internationalization? Standard Angular i18n or e.g. ngx-translate, transloco?
 15.  Do you take care of accessibility, e.g., support screen readers (aria attributes)?    
 16.  Do you have your own config to build the application, or do you use the default builder from Angular Devkit?
@@ -42,22 +42,22 @@ Just send your feedback to: [office@houseofangular.io](mailto:office@houseofangu
 
 17. How do you approach cross-browser support?
 18. Is there an internal knowledge base from which information on standards, conventions, and other solutions can be drawn?
-18.1 Who is responsible for setting standards and conventions?
+&nbsp;&nbsp;18.1 Who is responsible for setting standards and conventions?
 19. Do you use any libraries for UI (Angular Material, PrimeNG, etc.)? If so, which ones? 
 20. Do you use Prettier?
 21. Do you have in-house UX/UI designers?
 22. Do you create your own component-based design systems or UI libraries?
 23. Do you use Storybook?
 24. Is the Angular developer in your company also responsible for styling? If so, to what extent? Do they handle:
-24.1. minor styling and corrections,
-24.2. complex styling "from scratch", or
-24.3. work with graphic programs and cutting of layout.
+&nbsp;&nbsp;24.1. minor styling and corrections,
+&nbsp;&nbsp;24.2. complex styling "from scratch", or
+&nbsp;&nbsp;24.3. work with graphic programs and cutting of layout.
 
 ## Code Audit Practices
 
 25. Do you write unit tests? If yes, then:
-25.1. Which artifacts do you unit test?
-25.2. Which frameworks do you use (Karma + Jasmine or maybe Jest)?
+&nbsp;&nbsp;25.1. Which artifacts do you unit test?
+&nbsp;&nbsp;25.2. Which frameworks do you use (Karma + Jasmine or maybe Jest)?
 25.3. What is the average test coverage in the project? Are there any minimum coverage requirements?
 25.4. Do you use TDD?
 26. Do you use E2E testing?
