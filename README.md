@@ -21,7 +21,7 @@ Just send your feedback to: [office@houseofangular.io](mailto:office@houseofangu
 5.  Are there any projects coming up related to:\
 &nbsp;&nbsp;5.1. NativeScript\
 &nbsp;&nbsp;5.2. Electron\
-&nbsp;&nbsp;5.3. Ionic\
+&nbsp;&nbsp;5.3. Ionic
 6.  Are you writing your own Angular Schematics? If so, please give some examples.
 7.  Do you create custom web components? Do you use the Angular Elements library? If so, please provide examples.
 8.  Do you use Angular Universal Server Side Rendering?
